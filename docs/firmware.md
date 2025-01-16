@@ -57,6 +57,10 @@ Simple chat app for M5 Cardputer and the M5 E220 LoRa modules. Work in progress.
 
 A TV Remote App using the built in IR LED. As seen on the Volos Projects YouTube Channel.
 
+### [M5Cardputer Ultimate Remote][ultimate-remote]
+
+A powerful universal remote control for the M5Cardputer, supporting 3498 remote profiles from 636 different manufacturers and containing around 30,000 commands. It allows you to easily find a suitable remote for you device thanks to a automatic remotes scan.
+
 ## Pentesting Firmware
 
 **IMPORTANT**: The Cardputer Dev Community does not condone using penetration testing tools as a way to prank or otherwise conduct illegal activities. These tools are only for use on your own devices/networks/property.
@@ -94,3 +98,4 @@ Submit firmware contributions on [Github](https://github.com/cardputer-dev/cardp
 [volos-remote]: https://github.com/VolosR/M5CardRemote/
 [mhydra-apps]: https://github.com/echo-lalia/MicroHydra-Apps/tree/main/apps
 [mhydra-wiki]: https://github.com/echo-lalia/Cardputer-MicroHydra/wiki/MicroHydra-Wiki
+[ultimate-remote]: https://github.com/geo-tp/Ultimate-Remote
